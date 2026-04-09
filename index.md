@@ -4,7 +4,7 @@
 
 ## 개인 정보
 * **이름:** 최인하 (Choi inha)
-* **이메일:** [cih327856@naver.com](cih327856@naver.com)
+* **이메일:** [xyz030902@gmail.com](xyz030902@gmail.com)
 * **GitHub:** [https://github.com/inha030902](https://github.com/inha030902)
 
 ---
